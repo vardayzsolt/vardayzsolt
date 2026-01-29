@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Varday Zsolt
+- 👋 Hi, I’m @VardayZsolt
 - 👀 I’m interested in coding for Lego devices
 - 🌱 I’m currently learning micropython
 - 💞️ I’m looking to collaborate on pybricks project
